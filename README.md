@@ -1,6 +1,7 @@
 Senior Rails Dev @easybill
 
 ## Notable Contributions
+- [rubycdp/cuprite](https://github.com/rubycdp/cuprite)
 - [rubycdp/ferrum](https://github.com/rubycdp/ferrum)
 - [resque/resque-scheduler](https://github.com/resque/resque-scheduler)
 - [jbockler/yabeda-resque](https://github.com/jbockler/yabeda-resque)
