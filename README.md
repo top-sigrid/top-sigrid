@@ -6,6 +6,7 @@ Senior Rails Dev @easybill
 - [resque/resque-scheduler](https://github.com/resque/resque-scheduler)
 - [jbockler/yabeda-resque](https://github.com/jbockler/yabeda-resque)
 - [microsoft/playwright](https://github.com/microsoft/playwright)
+- [grosser/maxitest](https://github.com/grosser/maxitest)
 
 <!--
 **top-sigrid/top-sigrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
